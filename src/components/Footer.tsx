@@ -7,7 +7,7 @@ const Footer: React.FC = () => {
         <div className="text-center md:text-left">
           <p>&copy; {new Date().getFullYear()} Ahmad Abubakar Limateef. All rights reserved.</p>
           <p className="mt-1 text-xs">
-            Designed and Developed by{' '}
+            Crafted by{' '}
             <a 
               href="https://iysahyusuf.com" 
               target="_blank" 
